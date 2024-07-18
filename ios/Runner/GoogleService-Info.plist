@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBU58N0c5_8sxQFjSpI2DeLGU4NoSid80o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>836307609288</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.faiapps.employeeinfo.employeeInfo</string>
+	<key>PROJECT_ID</key>
+	<string>super-chicken-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>super-chicken-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:836307609288:ios:f7fb819708df0e4b25a7fd</string>
+</dict>
+</plist>
