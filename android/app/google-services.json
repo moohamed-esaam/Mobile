@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836307609288",
+    "project_id": "super-chicken-app",
+    "storage_bucket": "super-chicken-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836307609288:android:40fd7b546db7deac25a7fd",
+        "android_client_info": {
+          "package_name": "com.faiapps.employeeinfo.employee_info"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeJjsuJqxoMnyDOCAdECGyOcy545Da9ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

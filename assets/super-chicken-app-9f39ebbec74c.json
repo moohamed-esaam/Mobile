@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "super-chicken-app",
+  "private_key_id": "9f39ebbec74c547c1258ec0a1ef0e890abfa63dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxOMbmLIln1Yhz\nq2C/H2IqpAhVrtY6eBetJAT7PvtN8IzrtMp6kwoNdZl6p59gSnKPhlzcl6hadnVP\nxkSE7MoQbLsIF4R1nVjz/Xgvd8CHSLnSh9kNs1oEXGQSWe1PZoTpdId6Cab+AAa2\n2Pnwp1eVQc1+xdW/Rl4LL0ekQ5Hcct0C/jS+zWO3HKNG83ef95GjmJrtIU165h/4\nsnspOpx9NOc2RAO6DTQitY3Rzh6inpw8lACJlIKKdDOgDQw43mj0Sk7ryKCuMwOi\nN3hIWQAchWpi570+3BuvZctpMOGLxAhZKMKKZmVzGaKBxR8xgcirAbmMVQIEGnt0\nFJR9MGSfAgMBAAECggEAAgwK2BvJloZz5gojuvFs29s7MWoslU5Pz7Mrz48hrfvK\nVOqosBPEuPUTycPn5l/VxOyjY/Tof+sAXeSHZBWsG9Z1rpk+8XDY1zClU78JXUas\nxs7E5hCdSJGcok2hnRotDNlIu1MjN6neafxFns8ABvxUmFNGrcftTCnGpRIWvDoe\nfB0y/ZzPvt61HHa5v5JI9y8cuVU/9SscE0z23iw+hToc8o59uhCWvX75e5uplr17\nf1kK0l8D04C2pFrecUWhaQ1fJ9ZJ1oV8mXXOn7szTaKEXyR2yWu1Mjv3HjOrMkyV\n6zTtQPhps72UNapqzEB3PHfA9rClMUWu9DRz3AmQQQKBgQDqFCeueLssX5G/Dxde\nVDJzAFU7Hw/06erEVJ+M46PLu1grvlMkwb05UzpoWaaSSQn7zUmw0O5eEfrigaHz\nVZjDZ90LYJ18HVsJhx2mH6DADYYMTsTJxM0wUDzetElwAlQzJ+eorWl6J/h+5p87\nsb8Q7gsZWTim9HgjLrrppNHcYQKBgQDB0YYAweks91jZAB2iKEAI1fajoMLKY/tG\niQGgcdo3Z1rQNYKHiETixW6kFrXaq7vGXjLreyfvijb8NpgkrSOZJK4foFLRxteZ\nESf+9FyXs8AgTrJcsFZngJWy0mXJeUctht2FcDUq0aD8ogmpyGEoX6FCX+HkDPiA\n49FcOPHg/wKBgQCHQ5RWpt+KWcOQA3l+gesRN30JB/8hiNaoEzqLoLPzM9RUmsvS\n7r2Y1bZnvH6cA+boAg32RhWoeH1gzIY4Zhs7t9YtD+yRXylPTSvd5mLu+CGhFRd0\nfOwRYhx6mPXi6wWa9hFRELxl4ZkgQ8Z6KVF+x//T6xHosFaIBiXug9bdoQKBgHxX\n7G19+hdkFHcbUOeghPxmMJZnY7Culh15dja19DaJM0TSn4xOC0ulOEdDXqYMeSpZ\ncreKSmOuO3pxmAgnn+f3FVKq65czx0unKw6xPNoCcucHNfyrELPUVbXkr3KjQNvf\nYyzhgOqYlHyfhC2NpW9ecrl/hA9nluIxxjYxPlSHAoGAWUBYSG7QHdcCnpPbBS8b\nLOJ9csBp1VjALvXs1Pfyvt42Zy3ZhNDgNXQ75P3Wyw9wbnkPaWhQ1UO/5AnKUfEl\nkC6JuNjAskyIC5WdmbsIL0OCvrR+cNwkEPBO1R00C9hXtuUQ6Szz8okfsfno2yAb\nd2ybQ+aUo4Q6B99f1sjh4qA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rcuoz@super-chicken-app.iam.gserviceaccount.com",
+  "client_id": "100207190523450971282",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rcuoz%40super-chicken-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
